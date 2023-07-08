@@ -1,0 +1,8 @@
+.hero-container {
+   display: flex;
+   gap: 150px;
+   width: 1280px;
+   padding: 0 16px;
+   margin: 0 auto;
+
+}
